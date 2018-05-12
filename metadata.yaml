@@ -1,0 +1,33 @@
+_repo: The-Leader-of-the-Lower-School--A-Tale-of-School-Life_28854
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Campbell, John
+    gutenberg_agent_id: '26642'
+    url: http://www.gutenberg.org/2009/agents/26642
+covers:
+- cover_type: archival
+  image_path: 28854-h/images/cover01.jpg
+creator:
+  author:
+    agent_name: Brazil, Angela
+    birthdate: 1869
+    deathdate: 1947
+    gutenberg_agent_id: '2544'
+    url: http://www.gutenberg.org/2009/agents/2544
+    wikipedia: http://en.wikipedia.org/wiki/Angela_Brazil
+description: ''
+gutenberg_issued: '2009-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28854'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Girls -- Conduct of life -- Juvenile fiction'
+title: 'The Leader of the Lower School: A Tale of School Life'
+url: http://www.gutenberg.org/ebooks/28854
