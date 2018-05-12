@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2544
     wikipedia: http://en.wikipedia.org/wiki/Angela_Brazil
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28854#The-Leader-of-the-Lower-School--A-Tale-of-School-Life
 gutenberg_issued: '2009-05-17'
 gutenberg_type: Text
 identifiers:
